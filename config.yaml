@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    jaskirat:
+      email: jjaskirat.ssingh@gmail.com
+      name: Jaskirat
+      password: $2b$12$da5zlkbbybLAI0p1VtCbEe/z.aLOlzzY1H7CCBxoadVFHzShdOs0i # To be replaced with hashed password
+    aparna:
+      email: aparna@gmail.com
+      name: Aparna
+      password: $2b$12$f98JDJG2/bfzZFWnNe8acuuLk68EZKr7fnldsbB/4Oz9fKl97pSVy # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
